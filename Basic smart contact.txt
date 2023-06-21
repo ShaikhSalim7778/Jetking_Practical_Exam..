@@ -1,0 +1,25 @@
+01.  
+Set up the Remix IDE:
+Open the Remix IDE (https://remix.ethereum.org).
+
+02. 
+Create a new file called
+ Besic_smart_contract.sol
+
+03.
+Write the NFT contract:
+
+04. 
+Compile and deploy the contract:
+Go to the "Solidity Compiler" tab and select the appropriate compiler version.
+
+05.
+Go to the "Deploy & Run Transactions" tab.
+Select the appropriate environment (e.g., JavaScript VM or Injected Web3).
+Click the "Deploy" button to deploy the contract to the selected environment.
+
+06.
+Interact with the contract:
+After the contract is deployed, you can use the provided functions.
+To mint a new NFT, call the mintNFT function and provide the recipient's address and the token URI.
+The newly minted NFT will be assigned a unique token ID and associated with the recipient's address.
